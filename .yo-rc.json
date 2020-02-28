@@ -1,0 +1,11 @@
+{
+  "generator-easy-ui5": {
+    "platform": "Static webserver",
+    "ui5libs": "Content delivery network (OpenUI5)",
+    "newdir": false,
+    "projectname": "meinerstesprojekt",
+    "namespace": "com.sbt",
+    "viewtype": "XML",
+    "viewname": "Main"
+  }
+}
