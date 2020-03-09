@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/test/Opa5"],function(t){"use strict";return t.extend("com.sbt.meinerstesprojekt.test.integration.arrangements.Startup",{iStartMyApp:function(){this.iStartMyUIComponent({componentConfig:{name:"com.sbt.meinerstesprojekt",async:true,manifest:true}})}})});

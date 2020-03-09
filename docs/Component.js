@@ -1,0 +1,1 @@
+sap.ui.define(["sap/ui/core/UIComponent","sap/ui/Device","com/sbt/meinerstesprojekt/model/models"],function(e,t,i){"use strict";return e.extend("com.sbt.meinerstesprojekt.Component",{metadata:{manifest:"json"},init:function(){e.prototype.init.apply(this,arguments);this.getRouter().initialize();this.setModel(i.createDeviceModel(),"device")}})});
