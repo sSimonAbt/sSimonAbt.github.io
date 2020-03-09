@@ -1,5 +1,5 @@
 # meinerstesprojekt
-Insert the purpose of this project and some intersting infos here
+This is my Testprojekt to learn Stuff about UI5.
 
 
 ## Credits
